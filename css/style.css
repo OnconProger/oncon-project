@@ -1,0 +1,66 @@
+h1,h2,h3,h4,h5,h6,ul,ol{
+    margin: 0;
+    padding: 0;
+}
+
+ul{
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+    color: #5e5e5e;
+}
+a:hover{
+    text-decoration: none;
+}
+
+body{
+    background: url("../images/saitfon.jpg");
+    background-position: center center;
+    background-size: cover;
+    font-family: 'Fredoka One', cursive;
+}
+header img{
+    width: 30px;
+}
+header h5{
+    font-size: 30px;
+    
+}
+
+.list-group{
+    width: 250px;
+}
+.servises h3{
+    font-size: 35px;
+    border-bottom: 2px solid black;
+    padding: 15px;
+}
+.card{
+    background: rgb(187, 181, 181);
+    box-shadow: -1px 1px 17px 0px rgba(0,0,0,0.75);
+}
+.list-group-item{
+    background:  rgb(187, 181, 181);
+}
+.dropdown-item{
+    background:  rgb(187, 181, 181);
+    font-size: 15px;
+}
+
+.carousel-inner{
+    margin-top: 30px;
+}
+.sectiontext{
+    border-bottom: 2px solid black;
+    padding: 15px;
+}
+.row{
+    margin: 0 auto 0;
+}
+.servises .col-xl-4 {
+    margin-bottom: 80px;
+}
+  
+  
