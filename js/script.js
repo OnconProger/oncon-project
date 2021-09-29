@@ -1,2 +1,2 @@
-const name = prompt('Введите имя: ');
+let name = prompt('Введите имя: ');
 alert('Ваше имя: ' + name);
